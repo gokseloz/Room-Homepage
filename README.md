@@ -5,7 +5,7 @@
  
 ## Why did I do this?
 <ul>
-<li>I completed this challenge in order to mainly make practice, then explore new technics and different approaches</li>
+<li>I completed this challenge in order to mainly make practice, also explore new technics and different approaches</li>
 </ul>
  
 ## How did I do this?
