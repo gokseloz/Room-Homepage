@@ -53,6 +53,11 @@ body {
     height: 100%;
     z-index: 5;
     opacity: 1; }
+    @media (min-width: 1000px) {
+      .filter.active {
+        width: 0%;
+        height: 0%;
+        z-index: 0; } }
 
 .banner-nav-wrapper {
   position: relative;

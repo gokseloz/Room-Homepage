@@ -20,7 +20,7 @@ html {
 
 body {
     overflow-x: hidden;
-    &.scrollDisabled {
+    &.scrollDisabled {          //works after clicking hamburger-icon
         overflow-y: hidden;
     }
 }
