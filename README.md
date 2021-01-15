@@ -23,7 +23,7 @@
 
 ## Live demo
 <ul> 
-<li><a href="https://hamburger-menu.gokseloz.vercel.app/" target="_blank">See live demo</a></li>
+<li><a href="https://room-homepage.gokseloz.vercel.app/" target="_blank">See live demo</a></li>
 </ul>
   
 ## Short Gif
