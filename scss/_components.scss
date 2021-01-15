@@ -1,0 +1,35 @@
+.nav-link {
+    font-size: 1.2rem;
+    color: $black;
+    font-weight: bold;
+    position: relative;
+
+    @media (min-width: 800px) {
+        font-size: 1.5rem;
+    }
+
+    @media (min-width: 1000px) {
+        color: $white;
+        font-size: 1.4rem;
+    }
+
+    &:hover::after {
+        width: 100%;
+        left: 0;
+    }
+
+    &::after {
+        content: "";
+        position: absolute;
+        width: 0%;
+        height: .2rem;
+        background-color: $black;
+        top: 100%;
+        left: 50%;
+        transition: all .5s;
+
+        @media (min-width: 1000px) {
+            background-color: $white;
+        }
+    }
+}
