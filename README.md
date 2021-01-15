@@ -27,7 +27,7 @@
 </ul>
   
 ## Short Gif
-![room-homepage](https://user-images.githubusercontent.com/72968539/104714661-c4144000-5725-11eb-81b4-6951a173c580.gif)
+![room-homepage](https://user-images.githubusercontent.com/72968539/104715535-fa9e8a80-5726-11eb-85cd-67dccb40a9ca.gif)
 
 
 
